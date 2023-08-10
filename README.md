@@ -1,4 +1,4 @@
-FACEAI
+#FACEAI
 cool face detection web app using clarifai api
 
 Clone this repo
